@@ -8,6 +8,8 @@ This program renders a 3D triangle wireframe surface data model and allows one t
 
 **Instructions:**
 
+Run `WireframeDataViewer.java`.
+
 To open a wireframe, click on the "File" menu, then the "Open" object. This program only works `.dat` files (error handling not implemented) - a folder of example wireframes can be found in this repository. You may proceed to toggle the sliders and buttons for your desired features (rotation, scaling, anti-aliasing). 
 
 This was created from start-up code written by lecturer Dr. Ian Bond - It only had the JPanel features (slide and button widgets) implemented.
